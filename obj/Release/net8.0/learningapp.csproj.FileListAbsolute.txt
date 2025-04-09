@@ -68,3 +68,4 @@ C:\Users\amohammed\source\repos\Temp\learningapp\obj\Release\net8.0\refint\learn
 C:\Users\amohammed\source\repos\Temp\learningapp\obj\Release\net8.0\learningapp.pdb
 C:\Users\amohammed\source\repos\Temp\learningapp\obj\Release\net8.0\learningapp.genruntimeconfig.cache
 C:\Users\amohammed\source\repos\Temp\learningapp\obj\Release\net8.0\ref\learningapp.dll
+C:\Users\amohammed\source\repos\Temp\learningapp\obj\Release\net8.0\learningapp.sourcelink.json

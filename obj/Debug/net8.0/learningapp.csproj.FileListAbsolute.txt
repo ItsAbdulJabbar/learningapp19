@@ -136,3 +136,16 @@ C:\Users\amohammed\source\repos\Temp\learningapp\obj\Debug\net8.0\learningapp.pd
 C:\Users\amohammed\source\repos\Temp\learningapp\obj\Debug\net8.0\learningapp.genruntimeconfig.cache
 C:\Users\amohammed\source\repos\Temp\learningapp\obj\Debug\net8.0\ref\learningapp.dll
 C:\Users\amohammed\source\repos\Temp\learningapp\obj\Debug\net8.0\learningapp.sourcelink.json
+C:\Users\amohammed\source\repos\Temp\learningapp\bin\Debug\net8.0\publish\web.config
+C:\Users\amohammed\source\repos\Temp\learningapp\bin\Debug\net8.0\publish\appsettings.Development.json
+C:\Users\amohammed\source\repos\Temp\learningapp\bin\Debug\net8.0\publish\appsettings.json
+C:\Users\amohammed\source\repos\Temp\learningapp\bin\Debug\net8.0\publish\learningapp.deps.json
+C:\Users\amohammed\source\repos\Temp\learningapp\bin\Debug\net8.0\publish\learningapp.runtimeconfig.json
+C:\Users\amohammed\source\repos\Temp\learningapp\bin\Debug\net8.0\publish\learningapp.staticwebassets.endpoints.json
+C:\Users\amohammed\source\repos\Temp\learningapp\bin\Debug\net8.0\Azure.Data.AppConfiguration.dll
+C:\Users\amohammed\source\repos\Temp\learningapp\bin\Debug\net8.0\Azure.Messaging.EventGrid.dll
+C:\Users\amohammed\source\repos\Temp\learningapp\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\amohammed\source\repos\Temp\learningapp\bin\Debug\net8.0\DnsClient.dll
+C:\Users\amohammed\source\repos\Temp\learningapp\bin\Debug\net8.0\Microsoft.Azure.AppConfiguration.AspNetCore.dll
+C:\Users\amohammed\source\repos\Temp\learningapp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.AzureAppConfiguration.dll
+C:\Users\amohammed\source\repos\Temp\learningapp\bin\Debug\net8.0\System.ClientModel.dll
